@@ -33,7 +33,7 @@ def ud():
 def FD():
     os.system('clear')
     print(logo)
-    print('\x1b[1;33m [1] FOLLOW ME ON FACEBOOK)
+    print('\x1b[1;33m [1] FOLLOW ME ON FACEBOOK')
     print(' [2] EXIT')
     opt = input('\n  \x1b[1;32m Choose option >>> ')
     if opt == '1':
